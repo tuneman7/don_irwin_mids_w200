@@ -1,0 +1,18 @@
+{
+    "active_listings": "47",
+    "active_listings_up_down": "up",
+    "analytics_uri": "https://www.realtor.com/realestateandhomes-search/90023",
+    "average_days_on_market": "64",
+    "average_days_on_market_up_down": "down",
+    "description": "Boyle Heights",
+    "extract_day_id": "20210419",
+    "extract_dt": "04/19/2021, 10:58:30",
+    "median_list_price": "649,490",
+    "median_list_price_up_down": "up",
+    "median_price_per_sqft": "404",
+    "median_price_per_sqft_up_down": "up",
+    "price_reduced_status": "https://www.redfin.com/zipcode/90023/filter/max-price-reduced=1d",
+    "price_reduced_today": 0,
+    "search_uri": "https://www.redfin.com/zipcode/90023",
+    "zipcode": "90023"
+}

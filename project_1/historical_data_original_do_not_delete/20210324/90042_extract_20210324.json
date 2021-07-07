@@ -1,0 +1,18 @@
+{
+    "active_listings": "215",
+    "active_listings_up_down": "down",
+    "analytics_uri": "https://www.realtor.com/realestateandhomes-search/90042",
+    "average_days_on_market": "57",
+    "average_days_on_market_up_down": "down",
+    "description": "Highland Park",
+    "extract_day_id": "20210324",
+    "extract_dt": "03/24/2021, 13:36:39",
+    "median_list_price": "869,000",
+    "median_list_price_up_down": "up",
+    "median_price_per_sqft": "592",
+    "median_price_per_sqft_up_down": "down",
+    "price_reduced_status": "https://www.redfin.com/zipcode/90042/filter/max-price-reduced=1d",
+    "price_reduced_today": 0,
+    "search_uri": "https://www.redfin.com/zipcode/90042",
+    "zipcode": "90042"
+}

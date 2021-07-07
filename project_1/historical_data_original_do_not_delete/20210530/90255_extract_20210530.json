@@ -1,0 +1,17 @@
+{
+    "active_listings": "76",
+    "active_listings_up_down": "down",
+    "analytics_uri": "https://www.realtor.com/realestateandhomes-search/90255",
+    "average_days_on_market": "74",
+    "average_days_on_market_up_down": "up",
+    "description": "Huntington Park",
+    "extract_day_id": "20210530",
+    "extract_dt": "05/30/2021, 22:57:50",
+    "median_list_price": "600,000",
+    "median_list_price_up_down": "up",
+    "median_price_per_sqft": "361",
+    "median_price_per_sqft_up_down": "up",
+    "price_reduced_status": "https://www.redfin.com/zipcode/90255/filter/max-price-reduced=1d",
+    "search_uri": "https://www.redfin.com/zipcode/90255",
+    "zipcode": "90255"
+}

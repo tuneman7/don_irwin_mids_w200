@@ -1,0 +1,18 @@
+{
+    "active_listings": "378",
+    "active_listings_up_down": "up",
+    "analytics_uri": "https://www.realtor.com/realestateandhomes-search/90046",
+    "average_days_on_market": "57",
+    "average_days_on_market_up_down": "down",
+    "description": "Hollywood West Adjacent",
+    "extract_day_id": "20210423",
+    "extract_dt": "04/23/2021, 15:24:36",
+    "median_list_price": "1,590,000",
+    "median_list_price_up_down": "down",
+    "median_price_per_sqft": "811",
+    "median_price_per_sqft_up_down": "down",
+    "price_reduced_status": "https://www.redfin.com/zipcode/90046/filter/max-price-reduced=1d",
+    "price_reduced_today": 6,
+    "search_uri": "https://www.redfin.com/zipcode/90046",
+    "zipcode": "90046"
+}

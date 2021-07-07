@@ -1,0 +1,18 @@
+{
+    "active_listings": "263",
+    "active_listings_up_down": "down",
+    "analytics_uri": "https://www.realtor.com/realestateandhomes-search/90068",
+    "average_days_on_market": "64",
+    "average_days_on_market_up_down": "up",
+    "description": "Hollywood Hills",
+    "extract_day_id": "20210524",
+    "extract_dt": "05/24/2021, 09:19:23",
+    "median_list_price": "1,710,000",
+    "median_list_price_up_down": "up",
+    "median_price_per_sqft": "744",
+    "median_price_per_sqft_up_down": "up",
+    "price_reduced_status": "https://www.redfin.com/zipcode/90068/filter/max-price-reduced=1d",
+    "price_reduced_today": "",
+    "search_uri": "https://www.redfin.com/zipcode/90068",
+    "zipcode": "90068"
+}

@@ -1,0 +1,19 @@
+{
+    "active_listings": "",
+    "active_listings_up_down": "",
+    "analytics_uri": "https://www.realtor.com/realestateandhomes-search/91605",
+    "average_days_on_market": "",
+    "average_days_on_market_up_down": "",
+    "description": "North Hollywood",
+    "extract_day_id": "20210419",
+    "extract_dt": "04/19/2021, 10:56:44",
+    "extract_error": "true",
+    "median_list_price": "",
+    "median_list_price_up_down": "",
+    "median_price_per_sqft": "",
+    "median_price_per_sqft_up_down": "",
+    "price_reduced_status": "https://www.redfin.com/zipcode/91605/filter/max-price-reduced=1d",
+    "price_reduced_today": 0,
+    "search_uri": "https://www.redfin.com/zipcode/91605",
+    "zipcode": "91605"
+}

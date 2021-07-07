@@ -1,0 +1,17 @@
+{
+    "active_listings": "50",
+    "active_listings_up_down": "down",
+    "analytics_uri": "https://www.realtor.com/realestateandhomes-search/90013",
+    "average_days_on_market": "61",
+    "average_days_on_market_up_down": "down",
+    "description": "Downtown Los Angeles",
+    "extract_day_id": "20210521",
+    "extract_dt": "05/21/2021, 11:22:42",
+    "median_list_price": "599,000",
+    "median_list_price_up_down": "down",
+    "median_price_per_sqft": "653",
+    "median_price_per_sqft_up_down": "down",
+    "price_reduced_status": "https://www.redfin.com/zipcode/90013/filter/max-price-reduced=1d",
+    "search_uri": "https://www.redfin.com/zipcode/90013",
+    "zipcode": "90013"
+}

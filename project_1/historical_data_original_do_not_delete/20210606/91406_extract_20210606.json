@@ -1,0 +1,17 @@
+{
+    "active_listings": "139",
+    "active_listings_up_down": "up",
+    "analytics_uri": "https://www.realtor.com/realestateandhomes-search/91406",
+    "average_days_on_market": "42",
+    "average_days_on_market_up_down": "down",
+    "description": "Van Nuys",
+    "extract_day_id": "20210606",
+    "extract_dt": "06/06/2021, 23:03:14",
+    "median_list_price": "755,000",
+    "median_list_price_up_down": "up",
+    "median_price_per_sqft": "481",
+    "median_price_per_sqft_up_down": "up",
+    "price_reduced_status": "https://www.redfin.com/zipcode/91406/filter/max-price-reduced=1d",
+    "search_uri": "https://www.redfin.com/zipcode/91406",
+    "zipcode": "91406"
+}

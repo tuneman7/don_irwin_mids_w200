@@ -1,0 +1,18 @@
+{
+    "active_listings": "79",
+    "active_listings_up_down": "up",
+    "analytics_uri": "https://www.realtor.com/realestateandhomes-search/90038",
+    "average_days_on_market": "80",
+    "average_days_on_market_up_down": "up",
+    "description": "Hollywood South",
+    "extract_day_id": "20210412",
+    "extract_dt": "04/12/2021, 09:10:02",
+    "median_list_price": "1,390,000",
+    "median_list_price_up_down": "up",
+    "median_price_per_sqft": "585",
+    "median_price_per_sqft_up_down": "up",
+    "price_reduced_status": "https://www.redfin.com/zipcode/90038/filter/max-price-reduced=1d",
+    "price_reduced_today": 0,
+    "search_uri": "https://www.redfin.com/zipcode/90038",
+    "zipcode": "90038"
+}

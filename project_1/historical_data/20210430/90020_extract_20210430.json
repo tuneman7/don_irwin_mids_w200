@@ -1,0 +1,18 @@
+{
+    "active_listings": "68",
+    "active_listings_up_down": "up",
+    "analytics_uri": "https://www.realtor.com/realestateandhomes-search/90020",
+    "average_days_on_market": "94",
+    "average_days_on_market_up_down": "up",
+    "description": "Central Los Angeles / Wilshire Center / Little Bangladesh",
+    "extract_day_id": "20210430",
+    "extract_dt": "04/30/2021, 08:51:10",
+    "median_list_price": "688,000",
+    "median_list_price_up_down": "down",
+    "median_price_per_sqft": "598",
+    "median_price_per_sqft_up_down": "up",
+    "price_reduced_status": "https://www.redfin.com/zipcode/90020/filter/max-price-reduced=1d",
+    "price_reduced_today": 0,
+    "search_uri": "https://www.redfin.com/zipcode/90020",
+    "zipcode": "90020"
+}

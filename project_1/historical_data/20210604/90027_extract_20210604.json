@@ -1,0 +1,17 @@
+{
+    "active_listings": "160",
+    "active_listings_up_down": "down",
+    "analytics_uri": "https://www.realtor.com/realestateandhomes-search/90027",
+    "average_days_on_market": "49",
+    "average_days_on_market_up_down": "down",
+    "description": "East Hollywood / Los Feliz",
+    "extract_day_id": "20210604",
+    "extract_dt": "06/04/2021, 10:30:07",
+    "median_list_price": "1,740,000",
+    "median_list_price_up_down": "down",
+    "median_price_per_sqft": "731",
+    "median_price_per_sqft_up_down": "down",
+    "price_reduced_status": "https://www.redfin.com/zipcode/90027/filter/max-price-reduced=1d",
+    "search_uri": "https://www.redfin.com/zipcode/90027",
+    "zipcode": "90027"
+}
