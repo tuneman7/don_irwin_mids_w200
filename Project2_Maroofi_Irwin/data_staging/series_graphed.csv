@@ -1,0 +1,25 @@
+FED Series ID, Title, Freq, Observation Start, Observation End,Unit, Seasonal Adjustment
+MEHOINUSA672N,Real Median Household Income in the United States,A,1984-01-01,2019-01-01,2019 CPI-U-RS Adjusted Dollars,Not Seasonally Adjusted
+CPIAUCSL,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average,M,1947-01-01,2021-06-01,Index 1982-1984=100,Seasonally Adjusted
+MEHOINUSA672N,Real Median Household Income in the United States,A,1984-01-01,2019-01-01,2019 CPI-U-RS Adjusted Dollars,Not Seasonally Adjusted
+PCE,Personal Consumption Expenditures,M,1959-01-01,2021-06-01,Billions of Dollars,Seasonally Adjusted Annual Rate
+CPIAUCSL,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average,M,1947-01-01,2021-06-01,Index 1982-1984=100,Seasonally Adjusted
+WPS0811,Producer Price Index by Commodity: Lumber and Wood Products: Softwood Lumber,M,1975-01-01,2021-06-01,Index 1982=100,Seasonally Adjusted
+CPIAUCSL,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average,M,1947-01-01,2021-06-01,Index 1982-1984=100,Seasonally Adjusted
+PCOPPUSDM,Global price of Copper,M,1990-01-01,2021-06-01,U.S. Dollars per Metric Ton,Not Seasonally Adjusted
+PSAVERT,Personal Saving Rate,M,1959-01-01,2021-06-01,Percent,Seasonally Adjusted Annual Rate
+PCEC96,Real Personal Consumption Expenditures,M,2002-01-01,2021-06-01,Billions of Chained 2012 Dollars,Seasonally Adjusted Annual Rate
+TCU,Capacity Utilization: Total Index,M,1967-01-01,2021-06-01,Percent of Capacity,Seasonally Adjusted
+CPIAUCSL,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average,M,1947-01-01,2021-06-01,Index 1982-1984=100,Seasonally Adjusted
+CPILFESL,Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average,M,1957-01-01,2021-06-01,Index 1982-1984=100,Seasonally Adjusted
+CSUSHPINSA,S&P/Case-Shiller U.S. National Home Price Index,M,1987-01-01,2021-05-01,Index Jan 2000=100,Not Seasonally Adjusted
+MABMM301USM189S,M3 for the United States,M,1960-01-01,2021-05-01,National Currency,Seasonally Adjusted
+UNRATE,Unemployment Rate,M,1948-01-01,2021-06-01,Percent,Seasonally Adjusted
+CPIAUCSL,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average,M,1947-01-01,2021-06-01,Index 1982-1984=100,Seasonally Adjusted
+FPCPITOTLZGUSA,Inflation  consumer prices for the United States,A,1960-01-01,2020-01-01,Percent,Not Seasonally Adjusted
+FEDFUNDS,Effective Federal Funds Rate,M,1954-07-01,2021-07-01,Percent,Not Seasonally Adjusted
+CPIAUCSL,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average,M,1947-01-01,2021-06-01,Index 1982-1984=100,Seasonally Adjusted
+CPIAUCSL,Consumer Price Index for All Urban Consumers: All Items in U.S. City Average,M,1947-01-01,2021-06-01,Index 1982-1984=100,Seasonally Adjusted
+FEDFUNDS,Effective Federal Funds Rate,M,1954-07-01,2021-07-01,Percent,Not Seasonally Adjusted
+W270RE1A156NBEA,Shares of gross domestic income: Compensation of employees  paid: Wage and salary accruals: Disbursements: to persons,A,1948-01-01,2019-01-01,Percent,Not Seasonally Adjusted
+MABMM301USM189S,M3 for the United States,M,1960-01-01,2021-05-01,National Currency,Seasonally Adjusted

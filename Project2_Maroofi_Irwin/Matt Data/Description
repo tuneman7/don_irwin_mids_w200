@@ -1,0 +1,107 @@
+These are the files I've downloaded thus far. I will include a description of each.
+
+HDTGPDUSQ163N.csv - Household Debt to GDP for United States
+Units:  Ratio, Not Seasonally Adjusted
+Frequency:  Quarterly
+The data for household debt comprise debt incurred by resident households of the economy only. This FSI measures the overall level of household indebtedness (commonly related to consumer loans and mortgages) as a share of GDP.
+
+
+CPILFESL.csv - Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average
+Source: U.S. Bureau of Labor Statistics  Release: Consumer Price Index  
+Units:  Index 1982-1984=100, Seasonally Adjusted
+Frequency:  Monthly
+The "Consumer Price Index for All Urban Consumers: All Items Less Food & Energy" is an aggregate of prices paid by urban consumers for a typical basket of goods, excluding food and energy. This measurement, known as "Core CPI," is widely used by economists because food and energy have very volatile prices. The Bureau of Labor Statistics defines and measures the official CPI, and more information can be found in the FAQ or in this article.
+Suggested Citation:
+U.S. Bureau of Labor Statistics, Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average [CPILFESL], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/CPILFESL, July 20, 2021.
+
+FPCPITOTLZGUSA.csv - Inflation, consumer prices for the United States
+Source: World Bank  Release: World Development Indicators  
+Units:  Percent, Not Seasonally Adjusted
+Frequency:  Annual
+Inflation as measured by the consumer price index reflects the annual percentage change in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly. The Laspeyres formula is generally used.
+International Monetary Fund, International Financial Statistics and data files.
+Suggested Citation:
+World Bank, Inflation, consumer prices for the United States [FPCPITOTLZGUSA], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/FPCPITOTLZGUSA, July 20, 2021.
+
+GDP.csv
+Source: U.S. Bureau of Economic Analysis  Release: Gross Domestic Product  
+Units:  Billions of Dollars, Seasonally Adjusted Annual Rate
+Frequency:  Quarterly
+BEA Account Code: A191RC
+Gross domestic product (GDP), the featured measure of U.S. output, is the market value of the goods and services produced by labor and property located in the United States.For more information, see the Guide to the National Income and Product Accounts of the United States (NIPA) and the Bureau of Economic Analysis.
+Suggested Citation:
+U.S. Bureau of Economic Analysis, Gross Domestic Product [GDP], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/GDP, July 20, 2021.
+
+Real Gross Domestic Product (GDPC1)
+Source: U.S. Bureau of Economic Analysis  Release: Gross Domestic Product  
+Units:  Billions of Chained 2012 Dollars, Seasonally Adjusted Annual Rate
+Frequency:  Quarterly
+BEA Account Code: A191RX
+Real gross domestic product is the inflation adjusted value of the goods and services produced by labor and property located in the United States.For more information see the Guide to the National Income and Product Accounts of the United States (NIPA). For more information, please visit the Bureau of Economic Analysis.
+Suggested Citation:
+U.S. Bureau of Economic Analysis, Real Gross Domestic Product [GDPC1], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/GDPC1, July 20, 2021.
+
+Federal Debt: Total Public Debt as Percent of Gross Domestic Product (GFDEGDQ188S)
+Units:  Percent of GDP, Seasonally Adjusted
+Frequency:  Quarterly
+Federal Debt: Total Public Debt as Percent of Gross Domestic Product (GFDEGDQ188S) was first constructed by the Federal Reserve Bank of St. Louis in October 2012. It is calculated using Federal Government Debt: Total Public Debt (GFDEBTN) and Gross Domestic Product, 1 Decimal (GDP):
+GFDEGDQ188S = ((GFDEBTN/1000)/GDP)*100
+GFDEBTN/1000 transforms GFDEBTN from millions of dollars to billions of dollars.
+Suggested Citation:
+U.S. Office of Management and Budget and Federal Reserve Bank of St. Louis, Federal Debt: Total Public Debt as Percent of Gross Domestic Product [GFDEGDQ188S], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/GFDEGDQ188S, July 20, 2021.
+
+Household Debt to GDP for United States (HDTGPDUSQ163N)
+Source: International Monetary Fund  Release: Financial Soundness Indicators  
+Units:  Ratio, Not Seasonally Adjusted
+Frequency:  Quarterly
+The data for household debt comprise debt incurred by resident households of the economy only. This FSI measures the overall level of household indebtedness (commonly related to consumer loans and mortgages) as a share of GDP.
+Copyright © 2016, International Monetary Fund. Reprinted with permission. Complete terms of use and contact details are available from the IMF.
+Suggested Citation:
+International Monetary Fund, Household Debt to GDP for United States [HDTGPDUSQ163N], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/HDTGPDUSQ163N, July 20, 2021.
+
+Dates of U.S. recessions as inferred by GDP-based recession indicator (JHDUSRGDPBR)
+Source: Hamilton, James  Release: GDP-Based Recession Indicator Index  
+Units:  +1 or 0, Not Seasonally Adjusted
+Frequency:  Quarterly
+The series assigns dates to U.S. recessions based on a mathematical model of the way that recessions differ from expansions. Whereas the NBER business cycle dates are based on a subjective assessment of a variety of indicators, the dates here are entirely mechanical and are calculated solely from historically reported GDP data. Whenever the GDP-based recession indicator index rises above 67%, the economy is determined to be in a recession. The date that the recession is determined to have begun is the first quarter prior to that date for which the inference from the mathematical model using all data available at that date would have been above 50%. The next time the GDP-based recession indicator index falls below 33%, the recession is determined to be over, and the last quarter of the recession is the first quarter for which the inference from the mathematical model using all available data at that date would have been below 50%.
+For more information about this series visit http://econbrowser.com/recession-index.
+Suggested Citation:
+Hamilton, James, Dates of U.S. recessions as inferred by GDP-based recession indicator [JHDUSRGDPBR], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/JHDUSRGDPBR, July 20, 2021.
+
+10-Year Breakeven Inflation Rate (T10YIE)
+Source: Federal Reserve Bank of St. Louis  Release: Interest Rate Spreads
+Units:  Percent, Not Seasonally Adjusted
+Frequency:  Daily
+The breakeven inflation rate represents a measure of expected inflation derived from 10-Year Treasury Constant Maturity Securities (BC_10YEAR) and 10-Year Treasury Inflation-Indexed Constant Maturity Securities (TC_10YEAR). The latest value implies what market participants expect inflation to be in the next 10 years, on average.
+Starting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department.
+Suggested Citation:
+Federal Reserve Bank of St. Louis, 10-Year Breakeven Inflation Rate [T10YIE], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/T10YIE, July 20, 2021.
+
+30-year Breakeven Inflation Rate (T30YIEM)
+Source: Federal Reserve Bank of St. Louis  Release: Interest Rate Spreads
+Units:  Percent, Not Seasonally Adjusted
+Frequency:  Monthly
+The breakeven inflation rate represents a measure of expected inflation derived from 30-Year Treasury Constant Maturity Securities (BC_30YEAR) and 30-Year Treasury Inflation-Indexed Constant Maturity Securities (TC_30YEAR). The latest value implies what market participants expect inflation to be in the next 30 years, on average.
+Starting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department.
+Suggested Citation:
+Federal Reserve Bank of St. Louis, 30-year Breakeven Inflation Rate [T30YIEM], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/T30YIEM, July 20, 2021.
+
+5-Year Breakeven Inflation Rate (T5YIE)
+Source: Federal Reserve Bank of St. Louis  Release: Interest Rate Spreads
+Units:  Percent, Not Seasonally Adjusted
+Frequency:  Daily
+The breakeven inflation rate represents a measure of expected inflation derived from 5-Year Treasury Constant Maturity Securities (BC_5YEAR) and 5-Year Treasury Inflation-Indexed Constant Maturity Securities (TC_5YEAR). The latest value implies what market participants expect inflation to be in the next 5 years, on average.
+Starting with the update on June 21, 2019, the Treasury bond data used in calculating interest rate spreads is obtained directly from the U.S. Treasury Department.
+Suggested Citation:
+Federal Reserve Bank of St. Louis, 5-Year Breakeven Inflation Rate [T5YIE], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/T5YIE, July 20, 2021.
+
+Unemployment Rate (UNRATE)
+Source: U.S. Bureau of Labor Statistics  Release: Employment Situation  
+Units:  Percent, Seasonally Adjusted
+Frequency:  Monthly
+The unemployment rate represents the number of unemployed as a percentage of the labor force. Labor force data are restricted to people 16 years of age and older, who currently reside in 1 of the 50 states or the District of Columbia, who do not reside in institutions (e.g., penal and mental facilities, homes for the aged), and who are not on active duty in the Armed Forces.
+This rate is also defined as the U-3 measure of labor underutilization.
+The series comes from the 'Current Population Survey (Household Survey)'
+The source code is: LNS14000000
+Suggested Citation:
+U.S. Bureau of Labor Statistics, Unemployment Rate [UNRATE], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/UNRATE, July 20, 2021.

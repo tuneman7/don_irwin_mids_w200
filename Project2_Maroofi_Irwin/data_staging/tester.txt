@@ -1,0 +1,228 @@
+[WinError 183] Cannot create a file when that file already exists: 'inflation_file_series'
+[WinError 183] Cannot create a file when that file already exists: 'inflation_excel_series'
+MEHOINUSA672N
+c:\scratchpad\project_2\data_staging\inflation_excel_series\Median_Household_Income_MEHOINUSA672N.xlsx
+Median_Household_Income_MEHOINUSA672N.xlsx
+CPIAUCSL
+c:\scratchpad\project_2\data_staging\inflation_excel_series\CPI_Urban_Consumers_CPIAUCSL.xlsx
+CPI_Urban_Consumers_CPIAUCSL.xlsx
+0    1984-01-01
+1    1985-01-01
+2    1986-01-01
+3    1987-01-01
+4    1988-01-01
+5    1989-01-01
+6    1990-01-01
+7    1991-01-01
+8    1992-01-01
+9    1993-01-01
+10   1994-01-01
+11   1995-01-01
+12   1996-01-01
+13   1997-01-01
+14   1998-01-01
+15   1999-01-01
+16   2000-01-01
+17   2001-01-01
+18   2002-01-01
+19   2003-01-01
+20   2004-01-01
+21   2005-01-01
+22   2006-01-01
+23   2007-01-01
+24   2008-01-01
+25   2009-01-01
+26   2010-01-01
+27   2011-01-01
+28   2012-01-01
+29   2013-01-01
+30   2014-01-01
+31   2015-01-01
+32   2016-01-01
+33   2017-01-01
+34   2018-01-01
+35   2019-01-01
+Name: date, dtype: datetime64[ns]
+ax= True
+trying to save the file =  c:\scratchpad\project_2\data_staging\pictures\CPI_and_Median_Income_Jan_1984_through_Jan_2021.png
+[WinError 183] Cannot create a file when that file already exists: 'inflation_file_series'
+[WinError 183] Cannot create a file when that file already exists: 'inflation_excel_series'
+MEHOINUSA672N
+c:\scratchpad\project_2\data_staging\inflation_excel_series\Median_Household_Income_MEHOINUSA672N.xlsx
+Median_Household_Income_MEHOINUSA672N.xlsx
+PCE
+c:\scratchpad\project_2\data_staging\inflation_excel_series\Personal_Consumption_Expenditures_PCE.xlsx
+Personal_Consumption_Expenditures_PCE.xlsx
+0    1984-01-01
+1    1985-01-01
+2    1986-01-01
+3    1987-01-01
+4    1988-01-01
+5    1989-01-01
+6    1990-01-01
+7    1991-01-01
+8    1992-01-01
+9    1993-01-01
+10   1994-01-01
+11   1995-01-01
+12   1996-01-01
+13   1997-01-01
+14   1998-01-01
+15   1999-01-01
+16   2000-01-01
+17   2001-01-01
+18   2002-01-01
+19   2003-01-01
+20   2004-01-01
+21   2005-01-01
+22   2006-01-01
+23   2007-01-01
+24   2008-01-01
+25   2009-01-01
+26   2010-01-01
+27   2011-01-01
+28   2012-01-01
+29   2013-01-01
+30   2014-01-01
+31   2015-01-01
+32   2016-01-01
+33   2017-01-01
+34   2018-01-01
+35   2019-01-01
+Name: date, dtype: datetime64[ns]
+ax= True
+ax2= True
+trying to save the file =  c:\scratchpad\project_2\data_staging\pictures\Personal_Consumption_Expenditures_and_Median_Income_Jan_1984_through_Jan_2021.png
+[WinError 183] Cannot create a file when that file already exists: 'inflation_file_series'
+[WinError 183] Cannot create a file when that file already exists: 'inflation_excel_series'
+CPIAUCSL
+c:\scratchpad\project_2\data_staging\inflation_excel_series\Consumer_Price_Index_All_Items_CPIAUCSL.xlsx
+Consumer_Price_Index_All_Items_CPIAUCSL.xlsx
+WPS0811
+c:\scratchpad\project_2\data_staging\inflation_excel_series\Lumber_Price_Per_Hundred_Pounds_WPS0811.xlsx
+Lumber_Price_Per_Hundred_Pounds_WPS0811.xlsx
+336   1975-01-01
+337   1975-02-01
+338   1975-03-01
+339   1975-04-01
+340   1975-05-01
+         ...    
+889   2021-02-01
+890   2021-03-01
+891   2021-04-01
+892   2021-05-01
+893   2021-06-01
+Name: date, Length: 558, dtype: datetime64[ns]
+ax2= True
+trying to save the file =  c:\scratchpad\project_2\data_staging\pictures\CPI_and_Lumber_Costs_Jan_1975_through_Present.png
+[WinError 183] Cannot create a file when that file already exists: 'inflation_file_series'
+[WinError 183] Cannot create a file when that file already exists: 'inflation_excel_series'
+CPIAUCSL
+c:\scratchpad\project_2\data_staging\inflation_excel_series\Consumer_Price_Index_All_Items_CPIAUCSL.xlsx
+Consumer_Price_Index_All_Items_CPIAUCSL.xlsx
+PCOPPUSDM
+c:\scratchpad\project_2\data_staging\inflation_excel_series\Copper_Price_Per_Ton_PCOPPUSDM.xlsx
+Copper_Price_Per_Ton_PCOPPUSDM.xlsx
+516   1990-01-01
+517   1990-02-01
+518   1990-03-01
+519   1990-04-01
+520   1990-05-01
+         ...    
+889   2021-02-01
+890   2021-03-01
+891   2021-04-01
+892   2021-05-01
+893   2021-06-01
+Name: date, Length: 378, dtype: datetime64[ns]
+ax2= True
+trying to save the file =  c:\scratchpad\project_2\data_staging\pictures\CPI_and_Copper_Costs_Jan_1990_through_Present.png
+[WinError 183] Cannot create a file when that file already exists: 'inflation_file_series'
+[WinError 183] Cannot create a file when that file already exists: 'inflation_excel_series'
+PSAVERT
+c:\scratchpad\project_2\data_staging\inflation_excel_series\Personal_Savings_Rate_PSAVERT.xlsx
+Personal_Savings_Rate_PSAVERT.xlsx
+PCEC96
+c:\scratchpad\project_2\data_staging\inflation_excel_series\Personal_Consumption_(Billions)_PCEC96.xlsx
+Personal_Consumption_(Billions)_PCEC96.xlsx
+588   2008-01-01
+589   2008-02-01
+590   2008-03-01
+591   2008-04-01
+592   2008-05-01
+         ...    
+745   2021-02-01
+746   2021-03-01
+747   2021-04-01
+748   2021-05-01
+749   2021-06-01
+Name: date, Length: 162, dtype: datetime64[ns]
+ax2= True
+trying to save the file =  c:\scratchpad\project_2\data_staging\pictures\Personal_Savings_Rate__Consumption.png
+[WinError 183] Cannot create a file when that file already exists: 'inflation_file_series'
+[WinError 183] Cannot create a file when that file already exists: 'inflation_excel_series'
+TCU
+c:\scratchpad\project_2\data_staging\inflation_excel_series\Manufacturing_Capacity_TCU.xlsx
+Manufacturing_Capacity_TCU.xlsx
+CPIAUCSL
+c:\scratchpad\project_2\data_staging\inflation_excel_series\CPI_all_CPIAUCSL.xlsx
+CPI_all_CPIAUCSL.xlsx
+CPILFESL
+c:\scratchpad\project_2\data_staging\inflation_excel_series\CPI_Less_Food_And_Energy_CPILFESL.xlsx
+CPI_Less_Food_And_Energy_CPILFESL.xlsx
+351   1996-04-01
+352   1996-05-01
+353   1996-06-01
+354   1996-07-01
+355   1996-08-01
+         ...    
+649   2021-02-01
+650   2021-03-01
+651   2021-04-01
+652   2021-05-01
+653   2021-06-01
+Name: date, Length: 303, dtype: datetime64[ns]
+trying to save the file =  c:\scratchpad\project_2\data_staging\pictures\Manufacturing_Capacity_Utilization__CPI_with_and_Without_Food_and_Energy.png
+[WinError 183] Cannot create a file when that file already exists: 'inflation_file_series'
+[WinError 183] Cannot create a file when that file already exists: 'inflation_excel_series'
+CSUSHPINSA
+c:\scratchpad\project_2\data_staging\inflation_excel_series\Case-Schiller_US_National_Price_Index_CSUSHPINSA.xlsx
+Case-Schiller_US_National_Price_Index_CSUSHPINSA.xlsx
+MABMM301USM189S
+c:\scratchpad\project_2\data_staging\inflation_excel_series\FED_M3_Money_Supply_MABMM301USM189S.xlsx
+FED_M3_Money_Supply_MABMM301USM189S.xlsx
+156   1988-01-01
+157   1988-02-01
+158   1988-03-01
+159   1988-04-01
+160   1988-05-01
+         ...    
+552   2021-01-01
+553   2021-02-01
+554   2021-03-01
+555   2021-04-01
+556   2021-05-01
+Name: date, Length: 401, dtype: datetime64[ns]
+ax2= True
+trying to save the file =  c:\scratchpad\project_2\data_staging\pictures\Case_Schiller_Home_Index_and_M3_Money_Supply_1988_through_Present.png
+[WinError 183] Cannot create a file when that file already exists: 'inflation_file_series'
+[WinError 183] Cannot create a file when that file already exists: 'inflation_excel_series'
+UNRATE
+c:\scratchpad\project_2\data_staging\inflation_excel_series\Unemployment_Rate_UNRATE.xlsx
+Unemployment_Rate_UNRATE.xlsx
+CPIAUCSL
+c:\scratchpad\project_2\data_staging\inflation_excel_series\Consumer_Price_Index_All_Urban_Consumers_CPIAUCSL.xlsx
+Consumer_Price_Index_All_Urban_Consumers_CPIAUCSL.xlsx
+591   1997-04-01
+592   1997-05-01
+593   1997-06-01
+594   1997-07-01
+595   1997-08-01
+         ...    
+877   2021-02-01
+878   2021-03-01
+879   2021-04-01
+880   2021-05-01
+881   2021-06-01
+Name: date, Length: 291, dtype: datetime64[ns]
+trying to save the file =  c:\scratchpad\project_2\data_staging\pictures\Unemployment_Rate__CPI_Urban_1996_Through_Present.png

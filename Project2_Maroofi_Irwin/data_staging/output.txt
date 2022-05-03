@@ -1,0 +1,76 @@
+[WinError 183] Cannot create a file when that file already exists: 'inflation_file_series'
+[WinError 183] Cannot create a file when that file already exists: 'inflation_excel_series'
+CPIAUCSL
+c:\scratchpad\project_2\data_staging\inflation_excel_series\Consumer_Price_Index_All_Items_CPIAUCSL.xlsx
+Consumer_Price_Index_All_Items_CPIAUCSL.xlsx
+PCOPPUSDM
+c:\scratchpad\project_2\data_staging\inflation_excel_series\Copper_Price_Per_Ton_PCOPPUSDM.xlsx
+Copper_Price_Per_Ton_PCOPPUSDM.xlsx
+121   1990-02-01
+133   1991-02-01
+145   1992-02-01
+157   1993-02-01
+169   1994-02-01
+181   1995-02-01
+193   1996-02-01
+205   1997-02-01
+217   1998-02-01
+229   1999-02-01
+241   2000-02-01
+253   2001-02-01
+265   2002-02-01
+277   2003-02-01
+289   2004-02-01
+301   2005-02-01
+313   2006-02-01
+325   2007-02-01
+337   2008-02-01
+349   2009-02-01
+361   2010-02-01
+373   2011-02-01
+385   2012-02-01
+397   2013-02-01
+409   2014-02-01
+421   2015-02-01
+433   2016-02-01
+445   2017-02-01
+457   2018-02-01
+469   2019-02-01
+481   2020-02-01
+493   2021-02-01
+Name: date, dtype: datetime64[ns]
+121           2358.9434
+133           2447.1282
+145    2208.89225860596
+157    2212.18139313507
+169    1865.07501472778
+181    2870.45015814514
+193    2544.66672335968
+205    2406.63156159363
+217    1663.99998604431
+229             1412.95
+241            1807.025
+253            1766.125
+265           1561.3675
+277            1682.145
+289           2751.7175
+301              3247.1
+313            4974.975
+325             5718.15
+337    7941.14285714286
+349           3328.4125
+361            6867.675
+373           9880.9375
+385     8441.4880952381
+397            8060.925
+409           7149.2125
+421            5729.275
+433    4598.61904761905
+445           5940.9125
+457            7006.525
+469           6300.4875
+481             5687.75
+493             8470.94
+Name: value, dtype: object
+ax2= True
+trying to save the file =  c:\scratchpad\project_2\data_staging\pictures\CPI_and_Copper_Costs_Jan_1990_through_Present.png
