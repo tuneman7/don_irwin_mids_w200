@@ -1,0 +1,8 @@
+#!/Users/adonisirwin/system_data_folder/00AA_SCHOOL/MIDS/w210/don_irwin_mids_w200/Project2_Maroofi_Irwin/data_staging/data_engineering_venv/bin/python3
+# -*- coding: utf-8 -*-
+import re
+import sys
+from fontTools.subset import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
